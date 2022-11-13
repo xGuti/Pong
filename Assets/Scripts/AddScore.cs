@@ -9,6 +9,7 @@ public class AddScore : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        FindObjectOfType<AudioManager>().Play("score");
         if (_ball.transform.position.x < 0)
             GameManager.oponentScore++;
         else
