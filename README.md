@@ -17,4 +17,4 @@ Unity project of oryginal Pong game (1972).
  - Enemy AI :heavy_check_mark:
  - Ball movement and bounces :heavy_check_mark:
  - Score system :heavy_check_mark:
- - Sounds
+ - Sounds :heavy_check_mark:
