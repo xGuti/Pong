@@ -1,4 +1,4 @@
-# Pong (in progress)
+# Pong
  Gamedev challenge #3
 
 Project number #3 of gamedev practice challenge inspirated by https://gamefromscratch.com/just-starting-out-what-games-should-i-make/ .
